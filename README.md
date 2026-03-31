@@ -1,6 +1,12 @@
 ## Hi there 👋
 # 💫 About Me:
 I'm a Machine Learning & AI enthusiast.I build intelligent systems that turn ideas into practical, real-world solutions.<br>My focus lies in combining strong problem-solving with machine learning to create scalable and efficient applications.
+🤖 Working on Machine Learning, Computer Vision & AI-driven systems
+📊 Interested in real-world deployment & scalable ML solutions
+💡 Strong foundation in Data Structures & Algorithms
+🧠 Building projects integrating AI + Web + optimization techniques
+⚙️ Exploring production-level ML & system design concepts
+✨ Belief: Clean code + meaningful models = real impact
 
 
 ## 🌐 Socials:
