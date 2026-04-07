@@ -3,10 +3,6 @@
 <!-- Header Banner -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Hey%20there%2C%20I'm%20Abhishek!%20%F0%9F%91%8B&fontSize=40&fontColor=fff&fontAlignY=36&desc=ML%20Engineer%20%7C%20Computer%20Vision%20%7C%20Problem%20Solver&descAlignY=56&descColor=aaa&animation=fadeIn" />
 
-</div>
-
-<div align="center">
-
 <!-- Typing SVG -->
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Building+Intelligent+Systems+%F0%9F%A4%96;Computer+Vision+%2B+ML+Engineer;Turning+Data+into+Real+Impact+%F0%9F%9A%80;Clean+Code+%2B+Smart+Models+%3D+Magic+%E2%9C%A8)](https://git.io/typing-svg)
 
@@ -37,7 +33,7 @@ class Abhishek:
     currently_building = [
         "GestureVision — AI Hand Gesture Classifier",
         "Real-Time Vehicle Tracking (YOLOv11 + SORT)",
-        "Scalable ML pipelines: EDA → Deployment"
+        "Scalable ML pipelines: EDA to Deployment"
     ]
 
     belief = "Clean code + meaningful models = real impact 💡"
@@ -90,12 +86,18 @@ class Abhishek:
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="170px" src="https://github-readme-stats.vercel.app/api?username=abhishekdhidhi75&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
-  <img height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhishekdhidhi75&theme=tokyonight&hide_border=true&layout=compact&langs_count=8" />
+
+<!-- Stats Card - using anuraghazra's vercel deploy which is most stable -->
+<img src="https://github-readme-stats.vercel.app/api?username=abhishekdhidhi75&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&cache_seconds=1800" width="49%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhishekdhidhi75&theme=tokyonight&hide_border=true&layout=compact&langs_count=8&cache_seconds=1800" width="41%" />
+
 </div>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=abhishekdhidhi75&theme=tokyonight&hide_border=true" />
+
+<!-- Streak Stats - demolab is most reliable -->
+<img src="https://streak-stats.demolab.com?user=abhishekdhidhi75&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" width="55%" />
+
 </div>
 
 ---
@@ -104,7 +106,8 @@ class Abhishek:
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=abhishekdhidhi75&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+<!-- Trophy - using vercel deploy directly without markdown link wrapper to avoid render issues -->
+<img src="https://github-profile-trophy.vercel.app/?username=abhishekdhidhi75&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1&column=6" />
 
 </div>
 
