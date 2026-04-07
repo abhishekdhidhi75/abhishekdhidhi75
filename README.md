@@ -18,6 +18,17 @@
 ## 🧠 About Me
 
 ```python
+
+## 🧠 About Me
+
+I'm a **Machine Learning & Deep Learning enthusiast** who loves turning complex data problems into elegant, working solutions.  
+I started with curiosity and kept building — one algorithm at a time.
+
+- 🔬 Exploring **Deep Learning, NLP, and Generative AI**
+- 📊 Passionate about **Data Science** and real-world ML applications  
+- 🧩 Love solving problems with **Data Structures & Algorithms**
+- 📚 Always learning — currently diving deeper into **Transformers & LLMs**
+- 💡 I believe that **clean code + smart models = real impact**
 class Abhishek:
     name     = "Abhishek Dhidhi"
     role     = "ML Engineer & AI Enthusiast"
