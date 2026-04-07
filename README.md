@@ -1,16 +1,17 @@
 <div align="center">
 
-<!-- Animated Header Banner -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1f35,100:0d1117&height=200&section=header&text=Hey%20there%2C%20I'm%20Abhishek%20%F0%9F%91%8B&fontSize=45&fontColor=58a6ff&fontAlignY=38&desc=ML%20Engineer%20%7C%20Computer%20Vision%20Explorer%20%7C%20Problem%20Solver&descAlignY=58&descColor=8b949e&animation=fadeIn" />
+<!-- Header Banner -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Hey%20there%2C%20I'm%20Abhishek!%20%F0%9F%91%8B&fontSize=40&fontColor=fff&fontAlignY=36&desc=ML%20Engineer%20%7C%20Computer%20Vision%20%7C%20Problem%20Solver&descAlignY=56&descColor=aaa&animation=fadeIn" />
 
-<!-- Typing Animation -->
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Building+Intelligent+Systems+%F0%9F%A4%96;Computer+Vision+%2B+ML+Engineer;Turning+Data+into+Real+Impact+%F0%9F%9A%80;Clean+Code+%2B+Smart+Models+%3D+Magic+%E2%9C%A8" alt="Typing SVG" />
-</a>
+</div>
+
+<div align="center">
+
+<!-- Typing SVG -->
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Building+Intelligent+Systems+%F0%9F%A4%96;Computer+Vision+%2B+ML+Engineer;Turning+Data+into+Real+Impact+%F0%9F%9A%80;Clean+Code+%2B+Smart+Models+%3D+Magic+%E2%9C%A8)](https://git.io/typing-svg)
 
 <br/>
 
-<!-- Profile Views & Followers -->
 ![Profile Views](https://komarev.com/ghpvc/?username=abhishekdhidhi75&color=58a6ff&style=for-the-badge&label=PROFILE+VIEWS)
 [![GitHub followers](https://img.shields.io/github/followers/abhishekdhidhi75?style=for-the-badge&color=58a6ff&labelColor=0d1117&label=FOLLOWERS)](https://github.com/abhishekdhidhi75)
 
@@ -25,20 +26,20 @@ class Abhishek:
     name     = "Abhishek Dhidhi"
     role     = "ML Engineer & AI Enthusiast"
     location = "India 🇮🇳"
-    
-    focus    = [
+
+    focus = [
         "Machine Learning & Deep Learning",
-        "Computer Vision",
-        "AI-driven Systems",
-        "Data Structures & Algorithms"
+        "Computer Vision (OpenCV + YOLO)",
+        "AI-driven Real-World Systems",
+        "Data Structures & Algorithms in C++"
     ]
-    
+
     currently_building = [
         "GestureVision — AI Hand Gesture Classifier",
-        "Real-Time Vehicle Tracking System (YOLOv11 + SORT)",
-        "Scalable ML workflows from EDA → Deployment"
+        "Real-Time Vehicle Tracking (YOLOv11 + SORT)",
+        "Scalable ML pipelines: EDA → Deployment"
     ]
-    
+
     belief = "Clean code + meaningful models = real impact 💡"
 ```
 
@@ -76,29 +77,25 @@ class Abhishek:
 
 ## 🚀 What I'm Building & Exploring
 
-| 🔭 Project | 📌 Description |
-|---|---|
-| 🤚 **GestureVision** | AI hand gesture classifier — real-time recognition using OpenCV + ML |
-| 🚗 **Vehicle Tracker** | YOLOv11 + SORT algorithm for real-time vehicle detection & counting |
+| Project | Description |
+|---------|-------------|
+| 🤚 **GestureVision** | AI hand gesture classifier using OpenCV + ML — real-time recognition |
+| 🚗 **Vehicle Tracker** | YOLOv11 + SORT algorithm for real-time detection & counting |
 | 🧩 **DSA Mastery** | Sharpening algorithmic thinking in C++ |
 | 🌐 **Portfolio** | Personal portfolio website |
-| 🤖 **Generative AI** | Understanding LLMs and how they work under the hood |
+| 🤖 **Generative AI** | Exploring LLMs and how they work under the hood |
 
 ---
 
 ## 📊 GitHub Stats
 
 <div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=abhishekdhidhi75&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhishekdhidhi75&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact"/>
-
+  <img height="170px" src="https://github-readme-stats.vercel.app/api?username=abhishekdhidhi75&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
+  <img height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhishekdhidhi75&theme=tokyonight&hide_border=true&layout=compact&langs_count=8" />
 </div>
 
 <div align="center">
-
-[![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=abhishekdhidhi75&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
-
+  <img src="https://streak-stats.demolab.com?user=abhishekdhidhi75&theme=tokyonight&hide_border=true" />
 </div>
 
 ---
@@ -107,7 +104,7 @@ class Abhishek:
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=abhishekdhidhi75&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=abhishekdhidhi75&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
@@ -119,18 +116,18 @@ class Abhishek:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/abhishekdhidhi)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/_.abhishekdhidhi4)
-[![X](https://img.shields.io/badge/X-black?style=for-the-badge&logo=X&logoColor=white)](https://x.com/Abhiiiiiii)
+[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/Abhiiiiiii)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:adhidhi75@gmail.com)
 
 </div>
 
 ---
 
-### ✍️ Dev Quote of the Day
+### ✍️ Random Dev Quote
 
 <div align="center">
 
-[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)](https://github.com/piyushsuthar/github-readme-quotes)
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 </div>
 
@@ -138,7 +135,7 @@ class Abhishek:
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1f35,100:0d1117&height=100&section=footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" />
 
 **💡 "Clean code + smart models = real impact"**
 
