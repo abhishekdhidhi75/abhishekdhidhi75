@@ -17,7 +17,7 @@
 
 ## 🧠 About Me
 
-```python
+
 
 ## 🧠 About Me
 
@@ -29,28 +29,7 @@ I started with curiosity and kept building — one algorithm at a time.
 - 🧩 Love solving problems with **Data Structures & Algorithms**
 - 📚 Always learning — currently diving deeper into **Transformers & LLMs**
 - 💡 I believe that **clean code + smart models = real impact**
-class Abhishek:
-    name     = "Abhishek Dhidhi"
-    role     = "ML Engineer & AI Enthusiast"
-    location = "India 🇮🇳"
 
-    focus = [
-        "Machine Learning & Deep Learning",
-        "Computer Vision (OpenCV + YOLO)",
-        "AI-driven Real-World Systems",
-        "Data Structures & Algorithms in C++"
-    ]
-
-    currently_building = [
-        "GestureVision — AI Hand Gesture Classifier",
-        "Real-Time Vehicle Tracking (YOLOv11 + SORT)",
-        "Scalable ML pipelines: EDA to Deployment"
-    ]
-
-    belief = "Clean code + meaningful models = real impact 💡"
-```
-
----
 
 ## ⚡ Tech Stack & Tools
 
