@@ -67,9 +67,9 @@ I started with curiosity and kept building — one algorithm at a time.
 |---------|-------------|
 | 🤚 **GestureVision** | AI hand gesture classifier using OpenCV + ML — real-time recognition |
 | 🚗 **Vehicle Tracker** | YOLOv11 + SORT algorithm for real-time detection & counting |
-| 🧩 **DSA Mastery** | Sharpening algorithmic thinking in C++ |
+| 🏃 **RunConquer** | Gamified Fitness Model |
 | 🌐 **Portfolio** | Personal portfolio website |
-| 🤖 **Generative AI** | Exploring LLMs and how they work under the hood |
+
 
 ---
 
