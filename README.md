@@ -63,6 +63,30 @@ I started with curiosity and kept building — one algorithm at a time.
 
 ## 🚀 What I'm Building & Exploring
 
+- 🧬 **NLP pipelines** — text classification, sentiment analysis, sequence modeling
+- 🤖 **Deep Learning architectures** — CNNs, RNNs, Transformers
+- 📈 **ML workflows** — from EDA to model deployment
+- 🧩 **DSA mastery** — sharpening algorithmic thinking in C++
+- 🔍 **Generative AI** — understanding LLMs and how they work under the hood
+---
+## 📌 Featured Projects
+
+| Project | Description | Tech |
+|--------|-------------|------|
+| [🏃 RunConquer – Gamified GPS Territory Running App](https://github.com/abhishekdhidhi75/RunConquer-Gamified--GPS-Territory-Running-App) | Gamified fitness application that converts GPS-based running routes into captured map territories, enabling real-time tracking, competitive leaderboards, and interactive map-based gameplay. | Next.js, React, TypeScript, Tailwind CSS, Mapbox GL JS, Turf.js |
+| [🚗 Real-Time Vehicle Tracking System](https://github.com/abhishekdhidhi75/RealTime_Vehicle_Tracking_System) | Real-time vehicle tracking system with live monitoring, route tracking, and visualization. | Python, OpenCV, YOLO, NumPy, TensorFlow/PyTorch |
+| [🤚 GetsureVision AI Hand Gesture Classifier](https://github.com/abhishekdhidhi75/GetsureVision-AI-Hand-gesture-classifier) | AI-based hand gesture classifier using deep learning models (CNN, GNN, ResNet) to recognize gestures from images and hand landmarks. | Python, PyTorch, PyTorch Geometric, OpenCV, NumPy, Matplotlib, Scikit-learn |
+
+
+---
+
+| Project | Description | Tech |
+|--------|-------------|------|
+| [ 🏃 **RunConquer**](https://github.com/abhishekdhidhi75/RunConquer-Gamified--GPS-Territory-Running-App) | Data analysis and ML project | Python, Jupyter |
+| [🚗 **Vehicle Tracker**](https://github.com/abhishekdhidhi75/RealTime_Vehicle_Tracking_System) | End-to-end KNN classifier with full ML workflow | Python, Scikit-learn |
+| [🤚 **GestureVision**](https://github.com/abhishekdhidhi75/GetsureVision-AI-Hand-gesture-classifier) | Deep learning models applied to natural language processing tasks | Python, TensorFlow |
+
+
 | Project | Description |
 |---------|-------------|
 | 🤚 **GestureVision**](https://github.com/abhishekdhidhi75/RunConquer-Gamified--GPS-Territory-Running-App) | AI hand gesture classifier using OpenCV + ML — real-time recognition |
