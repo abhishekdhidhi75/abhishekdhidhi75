@@ -65,7 +65,7 @@ I started with curiosity and kept building — one algorithm at a time.
 
 | Project | Description |
 |---------|-------------|
-| 🤚 **GestureVision** | AI hand gesture classifier using OpenCV + ML — real-time recognition |
+| 🤚 **GestureVision**](https://github.com/abhishekdhidhi75/RunConquer-Gamified--GPS-Territory-Running-App) | AI hand gesture classifier using OpenCV + ML — real-time recognition |
 | 🚗 **Vehicle Tracker** | YOLOv11 + SORT algorithm for real-time detection & counting |
 | 🏃 **RunConquer** | Gamified Fitness Model |
 | 🌐 **Portfolio** | Personal portfolio website |
