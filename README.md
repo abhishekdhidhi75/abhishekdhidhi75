@@ -80,23 +80,6 @@ I started with curiosity and kept building — one algorithm at a time.
 
 ---
 
-| Project | Description | Tech |
-|--------|-------------|------|
-| [ 🏃 **RunConquer**](https://github.com/abhishekdhidhi75/RunConquer-Gamified--GPS-Territory-Running-App) | Data analysis and ML project | Python, Jupyter |
-| [🚗 **Vehicle Tracker**](https://github.com/abhishekdhidhi75/RealTime_Vehicle_Tracking_System) | End-to-end KNN classifier with full ML workflow | Python, Scikit-learn |
-| [🤚 **GestureVision**](https://github.com/abhishekdhidhi75/GetsureVision-AI-Hand-gesture-classifier) | Deep learning models applied to natural language processing tasks | Python, TensorFlow |
-
-
-| Project | Description |
-|---------|-------------|
-| 🤚 **GestureVision**](https://github.com/abhishekdhidhi75/RunConquer-Gamified--GPS-Territory-Running-App) | AI hand gesture classifier using OpenCV + ML — real-time recognition |
-| 🚗 **Vehicle Tracker** | YOLOv11 + SORT algorithm for real-time detection & counting |
-| 🏃 **RunConquer** | Gamified Fitness Model |
-| 🌐 **Portfolio** | Personal portfolio website |
-
-
----
-
 ## 📊 GitHub Stats
 
 <div align="center">
