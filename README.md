@@ -75,7 +75,7 @@ I started with curiosity and kept building — one algorithm at a time.
 |--------|-------------|------|
 | [🏃 RunConquer – Gamified GPS Territory Running App](https://github.com/abhishekdhidhi75/RunConquer-Gamified--GPS-Territory-Running-App) | Gamified fitness application that converts GPS-based running routes into captured map territories, enabling real-time tracking, competitive leaderboards, and interactive map-based gameplay. | Next.js, React, TypeScript, Tailwind CSS, Mapbox GL JS, Turf.js |
 | [🚗 Real-Time Vehicle Tracking System](https://github.com/abhishekdhidhi75/RealTime_Vehicle_Tracking_System) | Real-time vehicle tracking system with live monitoring, route tracking, and visualization. | Python, OpenCV, YOLO, NumPy, TensorFlow/PyTorch |
-| [🤚 GetsureVision AI Hand Gesture Classifier](https://github.com/abhishekdhidhi75/GetsureVision-AI-Hand-gesture-classifier) | AI-based hand gesture classifier using deep learning models (CNN, GNN, ResNet) to recognize gestures from images and hand landmarks. | Python, PyTorch, PyTorch Geometric, OpenCV, NumPy, Matplotlib, Scikit-learn |
+| [🤚 GetsureVision AI Hand Gesture Classifier](https://github.com/abhishekdhidhi75/GetsureVision-AI-Hand-gesture-classifier) | AI-based hand gesture classifier using deep learning models (CNN, GNN, ResNet) to recognize gestures from images. | Python, PyTorch, PyTorch Geometric, OpenCV, NumPy, Matplotlib, Scikit-learn |
 
 
 ---
