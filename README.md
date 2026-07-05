@@ -23,10 +23,10 @@
 ### 💫 About Me
 
 ```yaml
-role: Final-Year CSE Student @ Lovely Professional University
+
 focus: Machine Learning · Computer Vision · NLP/RAG Systems
-currently: Preparing for ML/AI Engineer roles + campus placements
-highlight: Filed a provisional patent for StudyAI (RAG-based study assistant)
+
+
 believes: Clean code + meaningful models = real impact
 ```
 
