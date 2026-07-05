@@ -15,7 +15,7 @@
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=abhishekdhidhi75&style=for-the-badge&color=00F7FF" alt="Profile views" />
-  <img src="https://img.shields.io/badge/Patent%20Filed-StudyAI-blueviolet?style=for-the-badge" />
+
 </p>
 
 ---
@@ -41,7 +41,7 @@ believes: Clean code + meaningful models = real impact
 <tr>
 <td width="50%">
 
-**🎓 [StudyAI](https://github.com/abhishekdhidhi75)** 🏅 *Patent Filed*
+**🎓 [StudyAI](https://github.com/abhishekdhidhi75)** 
 RAG-based AI study assistant using FastAPI, ChromaDB, Gemini embeddings & React. Turns study material into an interactive, context-aware assistant.
 
 `Python` `FastAPI` `ChromaDB` `Gemini API` `React`
