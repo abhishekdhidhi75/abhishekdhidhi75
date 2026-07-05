@@ -3,7 +3,7 @@
 <h3 align="center">Machine Learning & AI Engineer in the making | Building intelligent systems that solve real problems</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=RAG+%2B+NLP+%2B+Computer+Vision;Patent-Filed+Innovator+%F0%9F%93%9C;Final+Year+CSE+%40+LPU;Turning+Ideas+Into+Deployable+ML+Systems" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=RAG+%2B+NLP+%2B+Computer+Vision;%F0%9F%93%9C;Turning+Ideas+Into+Deployable+ML+Systems" alt="Typing SVG" />
 </p>
 
 <p align="center">
