@@ -1,143 +1,118 @@
-<div align="center">
+<h1 align="center">Hi, I'm Abhishek Dhidhi 👋</h1>
 
-<!-- Header Banner -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Hey%20there%2C%20I'm%20Abhishek!%20%F0%9F%91%8B&fontSize=40&fontColor=fff&fontAlignY=36&desc=ML%20Engineer%20%7C%20Computer%20Vision%20%7C%20Problem%20Solver&descAlignY=56&descColor=aaa&animation=fadeIn" />
+<h3 align="center">Machine Learning & AI Engineer in the making | Building intelligent systems that solve real problems</h3>
 
-<!-- Typing SVG -->
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Building+Intelligent+Systems+%F0%9F%A4%96;Computer+Vision+%2B+ML+Engineer;Turning+Data+into+Real+Impact+%F0%9F%9A%80;Clean+Code+%2B+Smart+Models+%3D+Magic+%E2%9C%A8)](https://git.io/typing-svg)
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=RAG+%2B+NLP+%2B+Computer+Vision;Patent-Filed+Innovator+%F0%9F%93%9C;Final+Year+CSE+%40+LPU;Turning+Ideas+Into+Deployable+ML+Systems" alt="Typing SVG" />
+</p>
 
-<br/>
+<p align="center">
+  <a href="https://linkedin.com/in/abhishekdhidhi"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:adhidhi75@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://instagram.com/_.abhishekdhidhi4"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+  <a href="https://x.com/Abhiiiiiii"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" /></a>
+</p>
 
-![Profile Views](https://komarev.com/ghpvc/?username=abhishekdhidhi75&color=58a6ff&style=for-the-badge&label=PROFILE+VIEWS)
-[![GitHub followers](https://img.shields.io/github/followers/abhishekdhidhi75?style=for-the-badge&color=58a6ff&labelColor=0d1117&label=FOLLOWERS)](https://github.com/abhishekdhidhi75)
-
-</div>
-
----
-
-
-
-
-
-## 🧠 About Me
-
-I'm a **Machine Learning & Deep Learning enthusiast** who loves turning complex data problems into elegant, working solutions.  
-I started with curiosity and kept building — one algorithm at a time.
-
-- 🔬 Exploring **Deep Learning, NLP, and Generative AI**
-- 📊 Passionate about **Data Science** and real-world ML applications  
-- 🧩 Love solving problems with **Data Structures & Algorithms**
-- 📚 Always learning — currently diving deeper into **Transformers & LLMs**
-- 💡 I believe that **clean code + smart models = real impact**
-
-
-## ⚡ Tech Stack & Tools
-
-### 🤖 Machine Learning & AI
-![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=OpenCV&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white)
-
-### 📊 Data Science
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-ffffff?style=for-the-badge&logo=Matplotlib&logoColor=black)
-
-### 💻 Core Languages
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-
-### 🗄️ Databases
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4ea94b?style=for-the-badge&logo=mongodb&logoColor=white)
-
-### 🛠️ Tools
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Google Colab](https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252)
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=abhishekdhidhi75&style=for-the-badge&color=00F7FF" alt="Profile views" />
+  <img src="https://img.shields.io/badge/Patent%20Filed-StudyAI-blueviolet?style=for-the-badge" />
+</p>
 
 ---
 
-## 🚀 What I'm Building & Exploring
+### 💫 About Me
 
-- 🧬 **NLP pipelines** — text classification, sentiment analysis, sequence modeling
-- 🤖 **Deep Learning architectures** — CNNs, RNNs, Transformers
-- 📈 **ML workflows** — from EDA to model deployment
-- 🧩 **DSA mastery** — sharpening algorithmic thinking in C++
-- 🔍 **Generative AI** — understanding LLMs and how they work under the hood
----
-## 📌 Featured Projects
+```yaml
+role: Final-Year CSE Student @ Lovely Professional University
+focus: Machine Learning · Computer Vision · NLP/RAG Systems
+currently: Preparing for ML/AI Engineer roles + campus placements
+highlight: Filed a provisional patent for StudyAI (RAG-based study assistant)
+believes: Clean code + meaningful models = real impact
+```
 
-| Project | Description | Tech |
-|--------|-------------|------|
-| .[🎓 StudyAI – AI Study Assistant using NLP & RAG](https://github.com/abhishekdhidhi75/StudyAI-AI-Sudy-Assistant-using-NLP-RAG). | StudyAI is an NLP/RAG-based AI study assistant that gives students grounded, accurate answers from their own study material instead of generic AI responses. It retrieves the most relevant content from a student's notes using semantic search, then uses an LLM to generate a contextual answer based on that retrieved content. You've also filed a provisional patent with the Indian Patent Office for it, making it a strong differentiator in your applications. |  Python, FastAPI, ChromaDB, Gemini API, Text Chunking |
-| [🏃 RunConquer – Gamified GPS Territory Running App](https://github.com/abhishekdhidhi75/RunConquer-Gamified--GPS-Territory-Running-App) | Gamified fitness application that converts GPS-based running routes into captured map territories, enabling real-time tracking, competitive leaderboards, and interactive map-based gameplay. | Next.js, React, TypeScript, Tailwind CSS, Mapbox GL JS, Turf.js |
-| [🚗 Real-Time Vehicle Tracking System](https://github.com/abhishekdhidhi75/RealTime_Vehicle_Tracking_System) | Real-time vehicle tracking system with live monitoring, route tracking, and visualization. | Python, OpenCV, YOLO, NumPy, TensorFlow/PyTorch |
-| [🤚 GetsureVision AI Hand Gesture Classifier](https://github.com/abhishekdhidhi75/GetsureVision-AI-Hand-gesture-classifier) | AI-based hand gesture classifier using deep learning models (CNN, GNN, ResNet) to recognize gestures from images. | Python, PyTorch, PyTorch Geometric, OpenCV, NumPy, Matplotlib, Scikit-learn |
-
+- 🔭 Building AI systems that combine **NLP, Computer Vision, and optimization**
+- 📜 Provisional patent filed with the Indian Patent Office for **StudyAI**
+- 📊 Strong foundation in **DSA** — actively deepening DP & system design
+- ⚙️ Exploring production-grade ML deployment and scalable system design
+- 🌱 Always shipping — 4 end-to-end projects and counting
 
 ---
 
-## 📊 GitHub Stats
+### 🚀 Featured Projects
 
-<div align="center">
+<table>
+<tr>
+<td width="50%">
 
-<!-- Stats Card - using anuraghazra's vercel deploy which is most stable -->
-<img src="https://github-readme-stats.vercel.app/api?username=abhishekdhidhi75&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&cache_seconds=1800" width="49%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhishekdhidhi75&theme=tokyonight&hide_border=true&layout=compact&langs_count=8&cache_seconds=1800" width="41%" />
+**🎓 [StudyAI](https://github.com/abhishekdhidhi75)** 🏅 *Patent Filed*
+RAG-based AI study assistant using FastAPI, ChromaDB, Gemini embeddings & React. Turns study material into an interactive, context-aware assistant.
 
-</div>
+`Python` `FastAPI` `ChromaDB` `Gemini API` `React`
 
-<div align="center">
+</td>
+<td width="50%">
 
-<!-- Streak Stats - demolab is most reliable -->
-<img src="https://streak-stats.demolab.com?user=abhishekdhidhi75&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" width="55%" />
+**🏃 [Run Conquer](https://github.com/abhishekdhidhi75/RunConquer-Gamified--GPS-Territory-Running-App)**
+Gamified GPS territory-running app with an ML-based cheat detection layer using Random Forest & Ridge Regression.
 
-</div>
+`Python` `ML` `GPS` `Random Forest`
 
----
+</td>
+</tr>
+<tr>
+<td width="50%">
 
-## 🏆 GitHub Trophies
+**🚗 [Real-Time Vehicle Tracking](https://github.com/abhishekdhidhi75/RealTime_Vehicle_Tracking_System)**
+Real-time vehicle detection, tracking & counting using YOLOv11 + BoT-SORT with a live React/Vite dashboard.
 
-<div align="center">
+`YOLOv11` `BoT-SORT` `Computer Vision` `React`
 
-<!-- Trophy - using vercel deploy directly without markdown link wrapper to avoid render issues -->
-<img src="https://github-profile-trophy.vercel.app/?username=abhishekdhidhi75&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1&column=6" />
+</td>
+<td width="50%">
 
-</div>
+**✋ [Gesture Vision](https://github.com/abhishekdhidhi75/GetsureVision-AI-Hand-gesture-classifier)**
+Hand-gesture recognition system built on classical ML (SVM) with real-time webcam inference.
 
----
+`Python` `OpenCV` `SVM`
 
-## 🌐 Connect With Me
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/abhishekdhidhi)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/_.abhishekdhidhi4)
-[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/Abhiiiiiii)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:adhidhi75@gmail.com)
-
-</div>
-
----
-
-### ✍️ Random Dev Quote
-
-<div align="center">
-
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-
-</div>
+</td>
+</tr>
+</table>
 
 ---
 
-<div align="center">
+### 🛠️ Tech Stack
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,cpp,c,java,opencv,pytorch,sklearn,mysql,mongodb,react,git,github&theme=dark" />
+</p>
 
-**💡 "Clean code + smart models = real impact"**
+<p align="center">
+  <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=plotly&logoColor=white" />
+  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white" />
+</p>
 
-</div>
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=abhishekdhidhi75&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhishekdhidhi75&theme=tokyonight&hide_border=true&layout=compact" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abhishekdhidhi75&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=abhishekdhidhi75&theme=tokyonight&no-frame=true&row=1&margin-w=15&column=6" />
+</p>
+
+---
+
+<p align="center">
+  <i>📫 Open to ML/AI Engineer roles — let's connect: <a href="mailto:adhidhi75@gmail.com">adhidhi75@gmail.com</a></i>
+</p>
