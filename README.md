@@ -25,13 +25,10 @@
 ```yaml
 
 focus: Machine Learning · Computer Vision · NLP/RAG Systems
-
-
 believes: Clean code + meaningful models = real impact
 ```
 
 - 🔭 Building AI systems that combine **NLP, Computer Vision, and optimization**
-- 📜 Provisional patent filed with the Indian Patent Office for **StudyAI**
 - 📊 Strong foundation in **DSA** — actively deepening DP & system design
 - ⚙️ Exploring production-grade ML deployment and scalable system design
 - 🌱 Always shipping — 4 end-to-end projects and counting
